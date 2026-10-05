@@ -1,0 +1,4 @@
+.env.example
+.git
+.gitignore
+.DS_Store
